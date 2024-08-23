@@ -1,0 +1,11 @@
+configuración global
+git config --global user.name "manuela"
+git config --global user.email "test@gmail.com"
+para usar un correo de la empresa o otra entidad
+git config user.email "test@gmail.com"
+REPOSITORIO DE GIT
+Área de trabajo 
+git add 
+Área de staging
+git commit
+Área de repositorio
