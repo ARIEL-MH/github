@@ -13,3 +13,4 @@ RAMAS DE git
 ver las ramas git branch
 crear una rama y tranporta a la rama
 git switch -c develop
+integrar con el flujo de trabajo se debe estar en el main
